@@ -1,0 +1,52 @@
+
+body  {
+  background-color: lightblue;
+}
+.container {
+  background-color: lightgray;
+  width: 50%;
+  margin: auto;
+  margin-top: 150px;
+  border-radius: 10px;
+  min-width: 500px;
+
+}
+h1 {
+  padding-top: 50px;
+  padding-left: 30px;
+  font-family: monospace;
+  padding-right: 5%;
+  color: brown;
+}
+.author {
+  text-align: right;
+  font-weight: bold;
+  font-style: italic;
+  color: darkblue;
+  padding-right: 10%;
+  padding-bottom: 20px;
+}
+.buttons {
+  padding-bottom: 30px;
+  width: 80%;
+  min-width: 80%;
+}
+.button {
+  position: relative;
+  left: 85%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  font-size: 16px;
+  border-radius: 10px;
+  font-weight: bold;
+  font-style: italic;
+}
+footer {
+  text-align: center;
+  padding-top: 10px;
+  color: green;
+}
